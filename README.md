@@ -1,3 +1,7 @@
+## Test
+This is just a simple implementation of Next.js NextAuth for Spotify OAuth which will be used for another project. 
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
